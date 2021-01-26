@@ -10,5 +10,5 @@ Bachelor level project during "Knowledge Systems" course. The goal of the projec
 
 ### Contributors
 
-[Athanasakis Theodosios](https://theathral.github.io)
+[Athanasakis Theodosios](https://theathral.github.io)\
 [Makris Ioannis](https://github.com/GiannisMak)
